@@ -47,19 +47,22 @@ echo "Installation of the core software"
 ###############################################################################
 
 list=(
-sddm
+alacritty
+archlinux-logout-git
+arcolinux-dusk-git
+arcolinux-dwm-st-git
+arcolinux-local-xfce4-git
 arcolinux-wallpapers-git
+arcolinux-xfce-git
+dmenu
+feh
+sddm
+sxhkd
 thunar
 thunar-archive-plugin
 thunar-volman
 xfce4-terminal
-arcolinux-xfce-git
-arcolinux-local-xfce4-git
-arcolinux-dusk-git
-archlinux-logout-git
-dmenu
-sxhkd
-feh
+
 )
 
 count=0
