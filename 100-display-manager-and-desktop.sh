@@ -56,6 +56,7 @@ arcolinux-wallpapers-git
 arcolinux-xfce-git
 dmenu
 feh
+picom
 sddm
 sxhkd
 thunar
