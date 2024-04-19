@@ -53,7 +53,7 @@ arcolinux-dusk-git
 arcolinux-dwm-st-git
 arcolinux-local-xfce4-git
 arcolinux-wallpapers-git
-arcolinux-xfce-git
+arconet-xfce
 dmenu
 feh
 picom
